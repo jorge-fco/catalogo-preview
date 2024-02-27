@@ -1,0 +1,9 @@
+#= PREPOS
+.DS_Store
+prepros.cfg
+prepros-6.config
+prepros.config
+
+*.html
+*.pug
+assets/*
