@@ -1,9 +1,10 @@
 # Catalogo preview
 
-## Features
+## 🪚 Features
 - Productos destacados
 - Listado de productos
 - Preguntas frecuentes
 - Dirección
+- Horario
 - Social media
 - WhatsApp
