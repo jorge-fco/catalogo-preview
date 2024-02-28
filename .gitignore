@@ -7,3 +7,4 @@ prepros.config
 *.html
 *.pug
 assets/*
+!assets/video
